@@ -1,2 +1,2 @@
-# Aprender_eBPF_espa-ol
+# Aprender_eBPF_español
 Liz Rice Learning eBPF spanish translation 
