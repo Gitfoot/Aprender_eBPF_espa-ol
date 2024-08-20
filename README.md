@@ -28,11 +28,11 @@ cd libbpf/src
 make install 
 cd ../..
 
-Construir bfptool
+Construir `bfptool`
 
 Hay varios ejemplos usando bpftool
 
-##Ejemplos
+## Ejemplos
 Cada directorio corresponden a su respectivo capítulo del libro.
 
 A continuación se muestran los diferentes ejemplos que acompañan a cada capítulo.
@@ -51,4 +51,4 @@ A continuación se muestran los diferentes ejemplos que acompañan a cada capít
 
 No hay ejemplos de código para los Capítulos 1 y 11.
 Privilegios
-Necesitará privilegios de root (bueno, estrictamente CAP_BPF y privilegios adicionales) para poder cargar programas BPF en el kernel. sudo -s es tu amigo.
+Necesitará privilegios de root (bueno, estrictamente `CAP_BPF` y privilegios adicionales) para poder cargar programas `BPF` en el kernel. `sudo` -s es tu amigo.
