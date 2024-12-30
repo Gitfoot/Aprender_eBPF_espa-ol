@@ -16,7 +16,7 @@ Se usara el archivo learning-ebpf.yaml como guia de instalación de los paquetes
 La version del kernel varia entre capitulo y capitulo.
 
 Prerequisitios : kernel 5.15
-Todos ejemplo fueron probadas en Fedora 39 con un kernel 6.10.3-100.fc39.x86_64
+Todos ejemplo fueron probadas en Fedora Scientific Lab  41 con un kernel 6.12.6-200.fc41.x86_64
 Instalar el repositorio
 
 git clone --recurse-submodules https://github.com/lizrice/learning-ebpf
